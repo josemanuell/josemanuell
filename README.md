@@ -54,7 +54,7 @@ Curso Inglés nivel 1 generado para desarrolladores. Centro Universitario De Idi
 
 Lenguajes de programación: JavaScript.
 
-Frameworks: React.
+Librerias: React.
 
 Bases de datos: MySQL.
 
