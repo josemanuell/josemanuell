@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Información personal
-**Nombre completo**: Jose Manuel Castro
+**Nombre completo**: Jose Manuel Castro Reina
 
 **Dirección**: Villa Dominico, Provincia de Buenos Aires, Argentina
 
